@@ -1,0 +1,378 @@
+@media screen and (min-width:768px) {
+    .our-team .display_flex{
+        /* justify-content: space-between; */
+      }
+      .glp-logo-icon {
+        width: 200.93px;
+      }
+      .logoHeading{
+        display: flex;
+        margin-bottom: 40px;
+      }
+    .teamMember{
+        width: 30%;
+        max-width: 440px;
+        padding: 20px;
+        margin: 20px;
+      }
+    .parent p{
+        font-size: 16px;
+        height: 70px;
+    }
+    .contact-form{
+        padding: 40px;
+    }
+    .input-field-1-parent{
+        margin: unset;
+    }
+    
+    .hero {
+        height: calc(100vh - 100px);
+    }
+    .btn1{margin: unset;padding: 20px;}
+    .input-field-6{padding: 20px;}
+    .about-parent {
+        width: 71%;
+        justify-content: flex-end;
+        margin: 0;
+    }
+    
+    .about-parent li {
+        width: 28%;
+    }
+    
+    .innerHero {
+        height: 50%;
+        align-items: flex-start;
+        justify-content: space-evenly  ;
+    }
+    
+    .mob-menu {
+        display: none;
+    }
+
+    .navbar {
+        display: flex;
+    }
+    
+    .featured {
+        padding: 10px;
+    }
+    .experience{
+        height: 200px;
+    }
+    .experience-parent,
+    .parent {
+        width: 20%;
+    }
+    
+    .frame-group,
+    .input-field-1-parent {
+        justify-content: flex-end;
+        width: 48%;
+    }
+    
+    .innerContact {
+        align-items: flex-start;
+        justify-content: space-between;
+    }
+    
+    .image,
+    .text {
+        width: 50%;
+    }
+    
+    .btn {
+        padding: 20px;
+        font-size: 18px;
+    }
+    
+    .contact2 {
+        padding: 40px;
+    }
+    
+    .wrapper {
+        justify-content: flex-end;
+        height: 425px;
+    }
+    
+    .contact-parent {
+        width: 50%;
+        justify-content: space-around;
+    }
+    .contact2,
+    .wrapper {
+        width: 100%;
+    }
+    .lorem-ipsum-dolor {
+        text-align: unset;
+    }
+    .logoText{
+        font-size: 14px;
+    }
+    .disclaimer{
+        height: 600px;
+        max-width: 1200px;
+        padding: 40px 40px 0 40px;
+      }
+    .disclaimer h3{
+       font-size: 32px;
+      }
+      .disclaimer .btnStrip
+      {
+        padding: 20px;
+      }
+      .innerPage .display_flex_col .display_flex_col .display_flex img{
+        width: 90px;
+      }
+      .heroIcon{
+
+          width: 100px;
+      }
+       .heroIcon + h1{
+        font-size: 36px;
+      }
+      .heroIcon + h1 +small{
+        font-size: 24px;
+      }
+      .hero2 .display_flex_col  small{
+        font-size: 18px;
+
+      }
+}
+
+@media screen and (min-width:1000px) {
+    .glp-logo-icon {
+        width: 320.93px;
+      }
+    .innerPage .display_flex_col .display_flex_col .display_flex p{
+        font-size: 34px;
+      }
+    
+      .teamMember img{
+        width: 250px;
+      }
+    .btn1,.input-field-6{
+        font-size: 20px;
+    }
+    .wrapper {
+        height: 527px;
+    }
+    .call-us-now-container{
+        font-size: 36px;
+    }
+    .free-consulting {
+        font-size: 42px;
+      }
+    .parent p{
+        font-size: 20px;
+    }
+    .downArrow{
+        width: 15px;
+        margin-left: 8px;
+      }
+    .featured-parent .featured ,.contact-us-wrapper a{
+        font-size: 13px;
+      }
+    .get-free-consultation{
+        font-size: 20px;
+    }
+    .frame-group{
+        width: 40%;
+    }
+    .input-field-1-parent {
+        width: 45%;
+    }
+    .input-field-1,.input-field-4,.input-field-5{
+        max-width: 197PX;
+    }
+    .input-field-5,.input-field-6{
+        width: 100% !important;
+        max-width: 414px;
+    }
+    .the-legal-advice {
+        font-size: 24px;
+    }
+
+    .are-you-looking {
+        font-size: 38px;
+        max-width: 560px;
+    }
+
+    .practice-area-12 {
+        height: 200px;
+        max-width: 300px;
+    }
+
+    .icon {
+
+        width: 80px;
+        height: 80px;
+        object-fit: cover;
+    }
+
+    .about-parent li {
+        width: 20%;
+    }
+    .featured {
+        padding: 10px 10px;
+    }
+    .logoHeading p{
+        font-size: 36px;
+      }
+      .logoHeading img{
+        width: 160px;
+      }
+}
+
+@media screen and (min-width:1280px) {
+    .logoHeading p{
+        font-size: 42px;
+        line-height: 80px;
+
+      }
+      .logoHeading img{
+        width: 180px;
+      }
+   
+    .btn {
+        padding: 40px;
+    }
+    
+.experience1 {
+font-size: 18px;
+}
+    .parent b, .experience b {
+        font-size: 34px;
+    }
+    .parent p{
+        font-size: 26px;
+    }
+    .experience{
+        height: 250px;
+    }
+    .innerHero {
+        height: 60%;
+        max-height: 380px;
+        padding-left:10px
+    }
+    .get-free-consultation{
+        font-size: 24px;
+        padding: 20px;
+    }
+    .leave-court-to {
+        font-size: 18px;
+
+    }
+    .the-legal-advice {
+        font-size: 26px;
+    }
+    .support,
+    .nav-links a {
+        font-size: 18px;
+    }
+
+    .mob-menu {
+        display: none;
+    }
+
+    /* .support,
+    .navbar li {
+        font-size: 22px;
+    } */
+
+    .featured-parent {
+        max-width: 824px;
+        gap: 20px;
+    }
+
+    .practice-area-12 {
+        height: 210px;
+        max-width: 390px;
+    }
+
+    .practice-area-12 p {
+        font-size: 24px;
+    }
+
+    .about-parent {
+        width: 70%;
+    }
+
+    .about-parent li {
+        width: 18%;
+    }
+    .featured {
+        padding: 14px 20px;
+    }
+    .hero2 .display_flex_col  small{
+        font-size: 24px;
+      }
+}
+
+@media screen and (min-width:1440px) {
+    .heading{
+        font-size: 50px;
+      }
+    .logoHeading p{
+        font-size: 50px;
+      }
+      .logoHeading img{
+        width: 201px;
+      }
+    .textJustify{
+        font-size: 24px;
+        line-height: 36px;
+    }
+    .heroIcon{
+
+        width: 200px;
+    } 
+    .heroIcon + h1{
+        font-size: 55px;
+    }
+    .parent b, .experience b {
+        font-size: 50px;
+    }
+    .parent p{
+        height: 100px;
+        font-size: 34px;
+    }
+    .experience{
+        height: 300px;
+    }
+    .are-you-looking {
+        font-size: 52px;
+    }
+
+    .about-parent {
+        width: 56%;
+        max-width: 800px;
+    }
+
+    .featured-parent {
+        gap: 30px;
+    }
+
+    .practice-area-12 {
+        height: 250px;
+        max-width: 440px;
+    }
+
+    .practice-area-12 p {
+        font-size: 32px;
+    }
+    .input-field-1,.input-field-4,.input-field-5{
+        max-width: unset;
+        max-width: 296px;
+        height: 80px;
+    }
+    .input-field-5{
+        max-width: 612px;
+        width: 100% !important;
+        height: 300px;
+    }
+    .input-field-email{
+        height: 80px;
+    }
+}
